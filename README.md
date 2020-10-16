@@ -4,4 +4,14 @@ ANSA is an advanced pre-processing software tool used in computer aided engineer
 # Motivation
 Identifying structures with similar geomtries in 3D CAD models is crucial for assigning them identical properties, meshing parameters, material attributes and connection types. This in turn, facilitates the preparation for the solution part as all of these objects are expected to exhibit similar behaviours under various experimental conditions. A CAE engineer would typically dissect those elements manually by using the toolbar. Nonetheless, there are occasions where ANSA databases may include thousands of geometry elements and part libraries come with several dozens of different items to distinguish. Hence, autoamtic the time-consuming part detection process becomes a necessity.
 
+# Requirements
+
+# Installation
+
 # Methods
+Point clouds, matching, registration, overlap.
+
+# Considerations
+No use of DNNs, meant for rapid integration.
+
+# References

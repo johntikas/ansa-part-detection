@@ -18,4 +18,3 @@ class Settings:
 
 class Algorithm:
     pass
-
